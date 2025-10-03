@@ -1,0 +1,52 @@
+# -----------------------
+# Python
+# -----------------------
+# Virtual environment
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# Output folder
+out/
+
+# -----------------------
+# VSCode
+# -----------------------
+.vscode/
+*.code-workspace
+
+# -----------------------
+# macOS
+# -----------------------
+.DS_Store
+
+# -----------------------
+# PyCharm
+# -----------------------
+.idea/
+*.iml
+*.iws
+
+# -----------------------
+# Others
+# -----------------------
+*.sqlite3
+*.db

@@ -1,0 +1,33 @@
+# Frameworks principais
+fastapi==0.115.5
+uvicorn[standard]==0.32.0
+
+# Config & validação
+pydantic==2.11.7
+pydantic-settings==2.5.2
+python-dotenv==1.0.1
+
+# Uploads e IO
+aiofiles==24.1.0
+python-multipart==0.0.9
+
+# Áudio e ML
+sounddevice==0.4.6
+soundfile==0.12.1
+faster-whisper==1.0.3
+onnxruntime==1.19.2
+ctranslate2==4.6.0
+numpy==1.26.4
+
+# NLP e sumarização
+nltk==3.9.1
+sumy==0.11.0
+regex==2024.9.11
+
+# Utilidades
+requests==2.32.3
+httpx==0.28.1
+tqdm==4.67.1
+coloredlogs==15.0.1
+PyYAML==6.0.2
+openai
